@@ -1,0 +1,32 @@
+[
+  {
+    "name": "MasumRaj",
+    "salary": 56000,
+    "married": false
+  },
+  {
+    "name": "sadiajaman",
+    "salary": 56000,
+    "married": true
+  },
+  {
+    "name": "hasan",
+    "salary": 56000,
+    "married": true
+  },
+  {
+    "name": "sagor",
+    "salary": 56000,
+    "married": true
+  },
+  {
+    "name": "babul",
+    "salary": 56000,
+    "married": true
+  },
+  {
+    "name": "kamrujjaman",
+    "salary": 56000,
+    "married": true
+  }
+]
