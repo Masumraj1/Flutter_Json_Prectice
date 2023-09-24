@@ -1,32 +1,32 @@
 [
   {
     "name": "MasumRaj",
-    "salary": 56000,
-    "married": false
+    "Address": "thakurgaon",
+    "programmer": true,
+    "year": 2023
   },
   {
     "name": "sadiajaman",
-    "salary": 56000,
-    "married": true
+    "Address": "thakurgaon",
+    "programmer": false,
+    "year": 2023
   },
   {
     "name": "hasan",
-    "salary": 56000,
-    "married": true
+    "Address": "thakurgaon",
+    "programmer": true,
+    "year": 2023
   },
   {
-    "name": "sagor",
-    "salary": 56000,
-    "married": true
+    "name": "mahi",
+    "Address": "thakurgaon",
+    "programmer": true,
+    "year": 2023
   },
   {
-    "name": "babul",
-    "salary": 56000,
-    "married": true
-  },
-  {
-    "name": "kamrujjaman",
-    "salary": 56000,
-    "married": true
+    "name": "habib",
+    "Address": "thakurgaon",
+    "programmer": true,
+    "year": 2023
   }
 ]
